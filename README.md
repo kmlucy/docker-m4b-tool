@@ -17,4 +17,4 @@ m4b <M4B-TOOL COMMAND>
 
 See [sandreas/m4b-tool readme](https://github.com/sandreas/m4b-tool) for details.
 
-Based on [sandreas/m4b-tool](https://github.com/sandreas/m4b-tool]
+Based on [sandreas/m4b-tool](https://github.com/sandreas/m4b-tool)
