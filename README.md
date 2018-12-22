@@ -4,7 +4,7 @@ To use this container, run:
 ```
 docker run -it --rm -u $(id -u):$(id -g) -v "$(pwd)":/data kmlucy/docker-m4b-tool <M4B-TOOL COMMAND>
 ```
-`<M4B-TOOL COMMAND` defaults to `--help` if nothing is provided.
+`<M4B-TOOL COMMAND>` defaults to `--help` if nothing is provided.
 
 You could then set this as an alias, for example:
 ```
