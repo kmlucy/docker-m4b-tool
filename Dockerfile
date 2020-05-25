@@ -1,4 +1,4 @@
-FROM php:cli
+FROM php:7.3-cli-stretch
 LABEL maintainer "Kyle Lucy <kmlucy@gmail.com>"
 
 RUN apt-get update && apt-get install -y ffmpeg mp4v2-utils && \
