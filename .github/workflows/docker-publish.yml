@@ -66,7 +66,4 @@ jobs:
 
       # Keep repository alive
       - name: Keep repository alive
-        uses: gautamkrishnar/keepalive-workflow@master
-        with:
-          time_elapsed: 20
-
+        uses: liskin/gh-workflow-keepalive@v1
